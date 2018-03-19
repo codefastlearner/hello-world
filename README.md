@@ -1,2 +1,2 @@
 # hello-world
-My name is Ciprian and i'm ne to this page.
+My name is Ciprian and i'm new to this page.
